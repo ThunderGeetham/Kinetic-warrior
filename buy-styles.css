@@ -1,0 +1,97 @@
+body {
+    margin: 0;
+    margin-top: 50px;
+    background-color: #d3f0f8;
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+header {
+    display: inline-flex;
+    text-align: center;
+    width: 75%;
+    height: 20vh;
+    margin: 0;
+    background: linear-gradient(90deg, cyan, #d3f0f8, rgb(46, 46, 46)) center top/cover;
+    padding: 0;
+    border-radius: 0 50px;
+}
+
+.x {
+    display: inline-block;
+    text-align: center;
+    position: absolute;
+    top: 12%;
+    left: 50%;
+}
+
+.logos {
+    height: 20vh;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.v1-div {
+    margin-top: 50px;
+    position: absolute;
+    text-align: center;
+    border: 5px solid whitesmoke;
+    left: 30%;
+}
+
+.v2-div {
+    margin-top: 50px;
+    position: absolute;
+    text-align: center;
+    border: 5px solid whitesmoke;
+    left: 30%;
+    top: 670px;
+}
+
+.v2custom-div {
+    margin-top: 50px;
+    position: absolute;
+    text-align: center;
+    border: 5px solid whitesmoke;
+    left: 30%;
+    width: 600px;
+    top: 1140px;
+}
+
+.w-img {
+
+    height: 300px;
+    width: 600px;
+
+}
+
+.wc-img {
+    width: 579.6px;
+    height: 154.9px;
+}
+
+.bottom-div {
+    background-color: #66BFBF;
+    margin:  1350px .1px -100px -10px;
+    padding: 50px 0 20px;
+}
+
+.copy {
+    color: powderblue;
+    font-size: 0.75rem;
+    margin: 10px 0 0;
+    padding: 20px 0;
+}
+
+a {
+    color: cyan;
+    margin-left: 20px;
+    font-family: Montserrat, sans-serif;
+    text-decoration-line: none;
+}
+
+a:hover {
+    color: #AEF6F6
+}
